@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .header {
     background-image: url("images/home-1-slide-1.jpg");
     background-repeat: no-repeat;
@@ -6,6 +7,16 @@
     background-size: cover;
     height: 600px;
 
+=======
+.header{
+    background-image: url("images/home-1-slide-1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    /* opacity:0.7; */
+    background-size: cover;
+    height: 600px;
+  
+>>>>>>> update commit
 }
 
 .one {
@@ -25,13 +36,27 @@
 
 }
 
+<<<<<<< HEAD
 .color {
     background-image: url("yellow_bg.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     height: 400px;
+=======
+.yellow{
+    background-image: url("Yellow.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height:400px ;
+}
+>>>>>>> update commit
 
+.color{
+    /* display: flex;
+    justify-content:flex-start; */
+    
 
 }
 
